@@ -1,0 +1,43 @@
+main{display: flex;
+    
+    
+}
+h4{
+    color:seagreen ;
+}
+ul{
+    list-style-type: square;
+  line-height: 1.5;
+}
+body{font-family:Helvetica ;
+    
+}
+header{
+background-color:#FFD966;
+color: white;
+padding: 20px;
+text-align: center;
+text-shadow: 5px 5px 10px black;
+}
+footer{
+font-size: 120%;
+}
+#lewy{
+    background-color: #FFD966;
+    width: 25%;
+    height:450px ;
+}
+#prawy{
+    background-color: #C5E0B4;
+    width:75% ;
+    height: 450px;
+    text-align: center;
+    box-shadow: 0 0 15px black;
+}
+table,td,th{
+    border-radius:1px;
+    border-collapse: collapse;
+border-color: black;
+margin: auto;
+width:70% ;
+}
